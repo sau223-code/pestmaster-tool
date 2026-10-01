@@ -1,9 +1,11 @@
 {
     "version": "1.0",
-    "release_date": "2026-10-01",
+    "release_date": "01/10/2026",
     "download_url": "https://github.com/sau223-code/pestmaster-tool/releases/download/v1.0/NhapNXT.exe",
     "changelog": [
-        "Initial release"
+        "Bản phát hành đầu tiên",
+        "Tool nhập BCVT va NXT",
+        "Tự động kiểm tra cập nhật từ GitHub"
     ],
     "min_version": "1.0"
 }
