@@ -1,14 +1,10 @@
 {
-    "version": "1.3",
+    "version": "1.0",
     "release_date": "02/10/2026",
-    "download_url": "https://github.com/sau223-code/pestmaster-tool/releases/download/v1.2/tool_sp3.exe",
+    "download_url": "https://github.com/sau223-code/pestmaster-tool/releases/download/v1.0/Tool_BCVT_va_NXT.exe",
     "changelog": [
         "Bản phát hành đầu tiên",
-        "Thêm tính năng tự động kiểm tra cập nhật",
-        "Nút 'Cập nhật' trên thanh trạng thái để kiểm tra thủ công",
-        "Popup thông báo có bản mới với danh sách thay đổi",
-        "Tự động tải và thay thế file .exe khi có bản mới",
-        "Hiihii"
+        "Tool nhập BCVT & NXT"
     ],
     "min_version": "1.0"
 }
