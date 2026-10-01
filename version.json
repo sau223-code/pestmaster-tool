@@ -1,0 +1,13 @@
+{
+    "version": "1.2",
+    "release_date": "01/10/2026",
+    "download_url": "https://github.com/sau223-code/pestmaster-tool/releases/download/v1.2/tool_sp3.exe",
+    "changelog": [
+        "Bản phát hành đầu tiên",
+        "Thêm tính năng tự động kiểm tra cập nhật",
+        "Nút 'Cập nhật' trên thanh trạng thái để kiểm tra thủ công",
+        "Popup thông báo có bản mới với danh sách thay đổi",
+        "Tự động tải và thay thế file .exe khi có bản mới"
+    ],
+    "min_version": "1.0"
+}
