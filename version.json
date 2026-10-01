@@ -1,7 +1,7 @@
 {
     "version": "1.4",
     "release_date": "01/10/2026",
-    "download_url": "https://github.com/sau223-code/pestmaster-tool/releases/download/v1.4/NhapNXT.zip",
+    "download_url": "https://github.com/sau223-code/pestmaster-tool/releases/download/1.4/NhapNXT.zip",
     "changelog": [
         "Chuyển sang đóng gói ZIP: hết lỗi DLL khi update",
         "Cải thiện tốc độ và ổn định"
