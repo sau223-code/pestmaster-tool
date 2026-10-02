@@ -1,9 +1,10 @@
 {
-  "version": "1.3",
+  "version": "1.4",
   "release_date": "01/10/2026",
-  "download_url": "https://github.com/sau223-code/pestmaster-tool/releases/download/v1.3/NhapNXT_Setup.exe",
+  "download_url": "https://github.com/sau223-code/pestmaster-tool/releases/download/v1.4/NhapNXT_Setup.exe",
   "changelog": [
-    "Test tính năng auto-update lần đầu",
+    "Test tính năng auto-update lần 2",
+    "Cập nhật lại nút CẬP NHẬT rõ ràng, dễ nhìn",
     "Bản chính thức PMCVN"
   ]
 }
